@@ -6,3 +6,6 @@ __pycache__/
 logs/
 tests/
 setup.py
+modules/discretize_lines_2.py
+modules/get_polygon_data_from_raster.py
+modules/quick_buffer.py
